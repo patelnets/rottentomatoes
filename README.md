@@ -1,7 +1,6 @@
 # rottentomatoes
 
-TODO
+To run
 
-- Add slider to the html output https://docs.bokeh.org/en/2.4.0/docs/first_steps/first_steps_9.html
-
-- clean up data file names
+1. Install dependencies in the `requirements.txt` file
+2. Run the notebook files in order
